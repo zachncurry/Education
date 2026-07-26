@@ -6,7 +6,7 @@
 ### Indiana University
 **Master of Science - Information Technology Management**</br>
 GPA 3.9</br>
-Graduated 2026</br>
+Graduated 2023</br>
 [View Degree](https://github.com/zachncurry/Education/blob/eca6e2ea292adbdbc17cde0dc9da899ef2f61166/Zach.Curry.IU.MSITM.Degree.png)</br>
 [Third Party Verification](https://cecredential.iu.edu/validation/index.html): Use Credential ID: 23GO-UPC3-ZUYH </br>
 
