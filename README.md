@@ -12,7 +12,7 @@ Graduated 2026</br>
 
 The program bridges the gap between deep technical implementation and high-level business strategy. Graduates transition from individual contributors or localized functional leads into holistic technology strategists.</br>
 - **Bridging IT and Enterprise Strategy:** Ability to frame technology initiatives in terms of organizational ROI, operational risk, and long-term business strategy—ensuring IT sits at the decision-making table rather than acting purely as a cost center.
-- **Executive Communication:** Mastering the art of translating complex technical concepts (cloud architecture, cybersecurity risk, data pipelines) into clear, compelling narratives for executive stakeholders, non-technical business partners, and boards.
+- **Executive Communication:** Mastering the art of translating complex technical concepts (cloud architecture, cybersecurity risk, data pipelines, AI) into clear, compelling narratives for executive stakeholders, non-technical business partners, and boards.
 - **Agile & Adaptive Governance:** Developing frameworks to manage technological change, govern enterprise architecture, and lead digital transformation initiatives in fast-evolving industries.
 
 
